@@ -1,0 +1,11 @@
+C:\WORK\frame\DockPanel\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\WORK\frame\DockPanel\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon.pdb
+C:\WORK\frame\DockPanel\System.Windows.Forms.Ribbon\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\frame\DockPanel\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon.dll
+C:\WORK\frame\DockPanel\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon.pdb
+D:\Work\2012\工作\南京框架\DockPanel022\DockPanel\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Work\2012\工作\南京框架\DockPanel022\DockPanel\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon.pdb
+D:\Work\2012\工作\南京框架\DockPanel022\DockPanel\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon.csprojAssemblyReference.cache
+D:\Work\2012\工作\南京框架\DockPanel022\DockPanel\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon.csproj.CoreCompileInputs.cache
+D:\Work\2012\工作\南京框架\DockPanel022\DockPanel\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon.dll
+D:\Work\2012\工作\南京框架\DockPanel022\DockPanel\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon.pdb

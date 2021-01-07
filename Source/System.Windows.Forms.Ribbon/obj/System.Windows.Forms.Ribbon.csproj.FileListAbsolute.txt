@@ -1,0 +1,5 @@
+C:\WORK\frame\ribbonSource\ribbonsource0.4\System.Windows.Forms.Ribbon\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\WORK\frame\ribbonSource\ribbonsource0.4\System.Windows.Forms.Ribbon\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon.pdb
+C:\WORK\frame\ribbonSource\ribbonsource0.4\System.Windows.Forms.Ribbon\System.Windows.Forms.Ribbon\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\frame\ribbonSource\ribbonsource0.4\System.Windows.Forms.Ribbon\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon.dll
+C:\WORK\frame\ribbonSource\ribbonsource0.4\System.Windows.Forms.Ribbon\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon.pdb
